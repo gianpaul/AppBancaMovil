@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppBancaMovil</string>
+
+    <!-- LoginScreen -->
+    <string name="enter_button_login">Ingresar</string>
+    <string name="username_hint_outlined_text_field_login">Usuario</string>
+    <string name="password_hint_outlined_text_field_login">Contraseña</string>
+
+
+</resources>
